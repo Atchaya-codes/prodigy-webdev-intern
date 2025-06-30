@@ -1,1 +1,1 @@
-# prodigy-webdev-intern
+This repository contains my projects and tasks completed as part of the Prodigy Web Development Internship. It showcases my front-end development skills using modern web technologies like HTML, CSS, and JavaScript. Each task demonstrates practical implementations of responsive design, interactivity, and user experience.
